@@ -4,9 +4,9 @@ Sebuah aplikasi untuk kebutuhan managemen, pembuatan penerapan antrian pada sebu
 Sistematika : 
 Pada aplikasi ini terdapat 3 sisi yang terdiri dari : 
 
-Sisi Pembuatan Antrian : untuk membuat dan mencetak antrian
-Sisi Monitoring Antrian : untuk memonitor antrian yang sedang berlangsung
-Sisi Admin : yang mengelola antrian masuk, laporan, administrasi pada aplikasi
+- Sisi Pembuatan Antrian : untuk membuat dan mencetak antrian
+- Sisi Monitoring Antrian : untuk memonitor antrian yang sedang berlangsung
+- Sisi Admin : yang mengelola antrian masuk, laporan, administrasi pada aplikasi
 
 
 Untuk lebih jelas nya, silahkan mencoba
