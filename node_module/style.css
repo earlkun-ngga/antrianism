@@ -1,0 +1,71 @@
+*{
+
+
+	font-family: 'Poppins', sans-serif;
+}
+
+
+html {
+	scroll-behavior: smooth;
+}
+
+
+.navbar {
+
+
+	background: #123545;
+	font-color: white;
+	padding: 1rem 4rem;
+	z-index: 1000;
+
+}
+
+#navbarSupportedContent > ul > li:nth-child(n) > a
+{
+
+	color: white;
+	font-size: 1.1rem;
+	padding: 0 0.8rem;
+
+
+}
+
+#navbarSupportedContent > ul > li:nth-child(n) > a:hover,
+#navbarSupportedContent > ul > li:nth-child(n) > a:active
+{
+
+	color: #1aabef;
+	font-size: 1.1rem;
+	padding: 0 0.8rem;
+
+
+}
+
+#brandnavbar {
+
+	color: white;
+	font-size: 1.5rem;
+
+}
+
+
+
+
+
+.mid {
+	width: 100%;
+	overflow: hidden;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-content: center;
+	text-align: center;
+}
+
+
+.hero {
+	margin-top: 15%;
+	position: relative;
+}
+
+
